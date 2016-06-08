@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:53.046096
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:39
 #+TITLE: 華嚴一乘教義分齊章
 #+PROPERTY: CBETA_ID T45n1866
 #+PROPERTY: ID KR6e0074
@@ -881,7 +881,7 @@
 　一多緣起理妙成
 　壞住自法常不作¶
 　唯智境界非事識
-　以此方便會一乘
+　以此方便會一乘」
 #+END_VERSE
-」¶
+¶
 華嚴一乘教義分齊章卷第四
